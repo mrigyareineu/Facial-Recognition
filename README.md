@@ -33,4 +33,11 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 I am an Electronics and Communication Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working on improving my software skills.
+
+- :seedling: Exploring Technical topics here and there.
+
+- :zap: In my free time, I solve coding problem and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrigya-reineu-a5b075218/)
 
