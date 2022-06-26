@@ -23,13 +23,16 @@ Here are some ideas to get you started:
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=mrigyareineu&style=flat-square&color=blue" alt=""/>
   </div>
+  
+  - ---
   <h1 align="center">
   Hey there!
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
+
+- ---
 
 ### :woman_technologist: About Me :
 I am an Electronics and Communication Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -40,4 +43,13 @@ I am an Electronics and Communication Engineering student <img src="https://medi
 - :zap: In my free time, I solve coding problem and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrigya-reineu-a5b075218/)
+- ---
 
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="arduinoIDE" width="40" height="40"/>&nbsp;
+  </div>
