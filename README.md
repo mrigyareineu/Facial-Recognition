@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mrigya-reineu-a5b075218/">
@@ -28,9 +28,10 @@ Here are some ideas to get you started:
   <h1 align="center">
   Hey there!
 </h1>
+
 <div align="center">
-  <img src="<iframe src="https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="600" height="300"/>
-</div>
+  <img src="https://media.giphy.com/media/wPyDWwurn8XEWdR9ol/giphy.gif" width="600" height="300"/>
+</div> 
 
 - ---
 
