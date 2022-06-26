@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   Hey there!
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="<iframe src="https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="600" height="300"/>
 </div>
 
 - ---
@@ -40,7 +40,7 @@ I am an Electronics and Communication Engineering student <img src="https://medi
 
 - :seedling: Exploring Technical topics here and there.
 
-- :zap: In my free time, I solve coding problem and read tech articles.
+- :zap: In my free time, I solve coding problem and watch anime.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrigya-reineu-a5b075218/)
 - ---
