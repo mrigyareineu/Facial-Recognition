@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 - ---
 
 ### :woman_technologist: About Me :
-I am an Electronics and Communication Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working on improving my software skills.
+I am an Electronics and Communication Engineering student. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working on improving my software skills mainly in Machine Learning.
 
-- :seedling: Exploring Technical topics here and there.
+- :seedling: Exploring AI based models here and there.
 
 - :zap: In my free time, I solve coding problem and watch anime.
 
